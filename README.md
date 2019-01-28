@@ -2,9 +2,10 @@
 
 ## Course Info
 
-| Instructor: | [Jeffrey Heinz](https://jeffreyheinz.net) | jeffrey.heinz@stonybrook.edu | SBS N237, IACS 160 |   |
-|:------------|:------------------------------------------|:-----------------------------|:-------------------|:--|
-| Course:     | Tuesday, Thursday 8:30am-9:50am           | SBS N250 (Compling Lab)      |                    |   |
+| Instructor: | [Jeffrey Heinz](https://jeffreyheinz.net) | jeffrey.heinz@stonybrook.edu | SBS N237, IACS 160 |
+|:------------|:------------------------------------------|:-----------------------------|:-------------------|
+| Course:     | Tuesday, Thursday 8:30am-9:50am           | SBS N250 (Compling Lab)      |                    |
+
 
 Office Hours are Mondays and Wednesdays from 2:30-4:00pm and by appointment.
 
