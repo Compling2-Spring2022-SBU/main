@@ -2,40 +2,26 @@
 
 ## Course Info
 
-| Instructor: | [Jeffrey Heinz](https://jeffreyheinz.net) | jeffrey.heinz@stonybrook.edu | SBS N237, IACS 160 |
-|:------------|:------------------------------------------|:-----------------------------|:-------------------|
-| Course:     | Tuesday, Thursday 8:30am-9:50am           | SBS N250 (Compling Lab)      |                    |
+### Instructor
+[Jeffrey Heinz](https://jeffreyheinz.net) 
+jeffrey.heinz@stonybrook.edu 
 
+### Course
+MWF 09:15-10:10 
+[ZOOM LINK](https://stonybrook.zoom.us/j/93603940635?pwd=c2U2WDJ4SnJUSXg1emdaU3phSWVNUT09) 
 
 Office Hours are Mondays and Wednesdays from 2:30-4:00pm and by appointment.
 
-Read [the syllabus](syllabus-compling2-LIN637-19S-Heinz.pdf)
+[The syllabus](syllabus-compling2-LIN637-19S-Heinz.pdf)
 
-## Description
+## Class Log
 
-This course acts as the bridge from introductory courses in linguistics (Syntax 1, Phonology 1, Phonetics) and computational methods (Statistics, Mathematical Methods in Linguistics, Computational Linguistics 1) to advanced courses and seminars in computational\slash mathematical linguistics.
-In contrast to the NLP courses offered by the department of computer science, this course focuses on studying the properties of natural language from a computationally informed perspective.
-The question is not about how computers can solve language-related tasks, but how aspects of knowledge of language and its acquisition can be conceptualized as computational problems.
-This emphasis is also reflected in the selection of topics for this course.
+### Mon 2021/02/01
 
+Today we introduced the course and went over the syllabus.
 
-## List of topics
-
-  * Phonology and Morphology/
-      * The role of formalization
-      * String languages
-      * Regular languages
-      * String transductions
-      * Subregular classes
-      * Computational perspectives on phonological theories like SPE and OT
-
-  * Syntax
-      * Tree languages
-      * Syntax is more complex than phonology
-      * Mildly context-sensitive formalisms (TAG, MGs)
-      * Tree transductions
-      * Regular representations of MCS formalisms
-
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## Useful Links
 ### Using git
