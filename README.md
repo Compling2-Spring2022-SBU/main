@@ -18,9 +18,9 @@
 
 ### Wed 03 Feb 2021
 
-Today we introduced the course and went over the syllabus.
-
-Please make sure you have a github account set up and send me your username so I can add you to the "Compling2-Spring2021-SBU" github organization.
+- Today we introduced the course and went over the syllabus.
+- Read [Rooij and Baggio 2021](readings/RooijBaggio2021.pdf) for Friday.
+- Please make sure you have a github account set up and send me your username so I can add you to the "Compling2-Spring2021-SBU" github organization.
 
 ### Mon 01 Feb 2021
 
