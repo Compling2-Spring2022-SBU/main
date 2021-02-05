@@ -16,6 +16,15 @@
 
 ## Class Log
 
+### Fri 05 Feb 2021
+
+- We discussed the paper [Rooij and Baggio 2021](readings/RooijBaggio2021.pdf) 
+- We finished the handout on [rewrite grammars](handouts/rewrite-grammars.pdf)
+- For Monday:
+  - Read Chapter 1 of [Graf's book](graf-book/999_CompleteLectureNotes.pdf). 
+  There is a lot in there but focus on the themes of 'computation', the competence/performance distinction, and Marr's levels. 
+  The discussion of Turing machines, sorting algorithms and memory addresses are informative, but strictly speaking not necessary for the larger conceptual points.
+
 
 ### Wed 03 Feb 2021
 
