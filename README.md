@@ -18,7 +18,7 @@
 
 ### Mon 08 Feb 2021
 
-- Read the organizational structure of the paper [Stabler 2019](readings/Stabler-2019-Three Mathematical Foundations for Syntax.pdf) 
+- Read the organizational structure of the paper [Stabler 2019](readings/Stabler-2019-Three-Mathematical-Foundations-for-Syntax.pdf) 
   - What are the section headings of sections 2, 3 and 4?
   - What is the coincidence he refers to?
   - Without reading the details of sections 2, 3, and 4, what is the main thesis of the paper?
