@@ -18,6 +18,10 @@
 
 ### Mon 08 Feb 2021
 
+- We finished going over the rewrite grammars handout.
+  - We did exercise 4 on the class whiteboard.
+  - We talked about how originally formal language theory was based on sets of strings, but two main innovations since then include the study of sets of trees and transformations over strings and trees.
+  - We related grammars recognizing infinite sets of strings in computational linguistics to equations defining infinite sets of points in math/physics, etc.
 - Read the organizational structure of the paper [Stabler 2019](readings/Stabler-2019-Three-Mathematical-Foundations-for-Syntax.pdf) 
   - What are the section headings of sections 2, 3 and 4?
   - What is the coincidence he refers to?
