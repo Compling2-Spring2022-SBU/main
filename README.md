@@ -16,6 +16,15 @@
 
 ## Class Log
 
+### Mon 08 Feb 2021
+
+- Read the organizational structure of the paper [Stabler 2019](readings/Stabler-2019-Three Mathematical Foundations for Syntax.pdf) 
+  - What are the section headings of sections 2, 3 and 4?
+  - What is the coincidence he refers to?
+  - Without reading the details of sections 2, 3, and 4, what is the main thesis of the paper?
+- For fun, see if you can write a context free grammar for the language containing all and only those strings with equals numbers of 'a's and 'b's. 
+
+
 ### Fri 05 Feb 2021
 
 - We discussed the paper [Rooij and Baggio 2021](readings/RooijBaggio2021.pdf) 
