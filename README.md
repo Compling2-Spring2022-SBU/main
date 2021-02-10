@@ -19,8 +19,9 @@
 ### Wed 10 Feb 2021
 
 - We discussed the Stabler paper and emphasized the following:
-  - Trees are important and Stabler's position that "Given the importance of tree languages in linguistic theory, they deserve more attention than they receive."
-  - I also drew attention to his 3rd summary point: "In some mildly context-sensitive formalizations of recent syntax, the set of derivations is a regular tree language, and the effect of movement is a regular transduction. This reveals that human languages can be defined in two finite-state steps." This perspective informs the topics we cover in this class (finite-state descriptions of tree languages and tree transformations)
+  - Trees are important for syntax and are motivated by different kinds of observations
+  - Stabler's position that "Given the importance of tree languages in linguistic theory, they deserve more attention than they receive."
+  - Stabler's 3rd summary point: "In some mildly context-sensitive formalizations of recent syntax, the set of derivations is a regular tree language, and the effect of movement is a regular transduction. This reveals that human languages can be defined in two finite-state steps." This perspective informs the topics we cover in this class (finite-state descriptions of tree languages and tree transformations)
 - We explored different CFGs for the language containing all and only those strings with equals numbers of 'a's and 'b's. 
 - We introduced informally the notion of Strictly 2-Local grammars and languages (bigram grammars and languages).
 - For Friday, read Unit 3 in [Graf's book](graf-book/999_CompleteLectureNotes.pdf)
