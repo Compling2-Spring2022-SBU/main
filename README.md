@@ -23,7 +23,7 @@
 - For Monday, read Unit 4 up to section 2.3 (up to page 64) in [Graf's book](graf-book/999_CompleteLectureNotes.pdf)
 - We will talk about SL2 Substitution Closure on Monday.
 - Optional Resources: 
-  - I added [Jim Rogers' notes on SL](readings/slocal.ho.pdf)  to the handouts readings.
+  - I added [Jim Rogers' notes on SL](handouts/slocal.ho.pdf)  to the handouts readings.
   - Jim and I also presented a lot of this at ESSLLI in 2014 in minicourse. Here are the [course's slides](http://jeffreyheinz.net/talks/Rogers-Heinz-2014-MTP-ESSLI-slides.pdf)
 
 ### Wed 10 Feb 2021
