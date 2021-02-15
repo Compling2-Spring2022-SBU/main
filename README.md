@@ -16,6 +16,11 @@
 
 ## Class Log
 
+### Fri 15 Feb 2021
+
+- We went over what is expected for [HW1](https://github.com/Compling2-Spring2021-SBU/HW1). 
+- We studied Suffix Substitution Closure for bigram languages.
+
 ### Fri 12 Feb 2021
 
 - We discussed bigram grammars and languages.
