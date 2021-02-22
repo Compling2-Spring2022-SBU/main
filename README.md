@@ -16,14 +16,26 @@
 
 ## Class Log
 
-### Fri 17 Feb 2021
+### Mon 22 Feb 2021
+
+- We studied the Figure 4.2 on page 64 of Graf's notes and came to understand it.
+- We studied Suffix Substitution Closure for Strictly k-local languages. 
+- For a succinct review on SL_k, read up to section 2.2 pages 329-334 in [Rogers and Pullum 2011](readings/Rogers-Pullum-2011.pdf)
+
+### Fri 19 Feb 2021
+
+- We generalized bigram grammars and languages to k-grams (strictly k-local grammars and languages)
+- We studied two ways of dealing with short strings (augmenting with strings with multiple boundaries or extracting factors shorter than k when necessary).
+- We saw how for all k, strictly k+1 languages are a proper superset of strictly k languages.
+
+### Wed 17 Feb 2021
 
 - We thought about bigram grammars as "tiling" (see this (whiteboard)[https://miro.com/app/board/o9J_laeryaM=/])
 - We showed how CFGs can be thought of as the tiling of 2-local trees (where '2' refers to tree depth). 
 - We continued to study Suffix Substitution Closure for bigram languages.
 - Optional only: (Ji and Heinz 2020)[http://jeffreyheinz.net/papers/Ji-Heinz-2020-ISLTT.pdf] on ISL tree transducers (which also provides definitions of trees and SL2 tree languages). 
 
-### Fri 15 Feb 2021
+### Mon 15 Feb 2021
 
 - We went over what is expected for [HW1](https://github.com/Compling2-Spring2021-SBU/HW1). It is due next Monday Feb 22.
 - We studied Suffix Substitution Closure for bigram languages.
