@@ -16,10 +16,14 @@
 
 ## Class Log
 
+### Wed 24 Feb 2021
+
+- We studied Suffix Substitution Closure for Strictly k-local languages. 
+- 
+
 ### Mon 22 Feb 2021
 
 - We studied the Figure 4.2 on page 64 of Graf's notes and came to understand it.
-- We studied Suffix Substitution Closure for Strictly k-local languages. 
 - For a succinct review on SL_k, read up to section 2.2 pages 329-334 in [Rogers and Pullum 2011](readings/Rogers-Pullum-2011.pdf)
 
 ### Fri 19 Feb 2021
