@@ -16,6 +16,24 @@
 
 ## Class Log
 
+### Fri 05 Mar 2021
+
+### Wed 03 Mar 2021
+
+- We defined 'map and combine' functions over tree structures.
+- HW 2 is posted and is due Wednesday, March 10. 
+- Here is some [background on classes](https://www.python-course.eu/python3_object_oriented_programming.php) in Python if you are not familiar with them. 
+
+### Mon 01 Mar 2021
+
+- We reviewed 'map' functions on strings
+- We defined trees as recursive data structures.
+
+### Fri 26 Feb 2021
+
+- We reviewed where we are in the class and where where we are going.
+- We defined strings with a recursive data structure and learned how to define functions which take this data sructure as an input.
+
 ### Wed 24 Feb 2021
 
 - We studied Suffix Substitution Closure for Strictly k-local languages. 
