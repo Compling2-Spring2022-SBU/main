@@ -11,7 +11,8 @@
 - [ZOOM LINK](https://stonybrook.zoom.us/j/93603940635?pwd=c2U2WDJ4SnJUSXg1emdaU3phSWVNUT09) 
 - Office Hours are Tuesdays from 1:00-4:00pm and by appointment.
 - [The syllabus]()
-- [Our "whiteboard"](https://docs.google.com/document/d/1cYKeifwRr0plOrnktIRv2viO0p57hwDLykvBWTiEf80/edit?usp=sharing)
+- [Our Google Doc "whiteboard"](https://docs.google.com/document/d/1cYKeifwRr0plOrnktIRv2viO0p57hwDLykvBWTiEf80/edit?usp=sharing)
+- [Our Miro "whiteboard"](https://miro.com/welcomeonboard/mmHj2goQFkMbz8LNcn8FnW3sK8xepYf9ym3g7OoPBViWshuqL1WCSSyiQgm41cdG)
 - [Useful Links](UsefulLinks.md) for github, markdown, LaTeX, and Python
 
 ## Class Log
