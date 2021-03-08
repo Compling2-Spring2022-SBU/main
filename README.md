@@ -17,7 +17,19 @@
 
 ## Class Log
 
+
+### Wed 10 Mar 2021
+
+- Class canceled.
+
+### Mon 08 Mar 2021
+
+- We studied properties of DFA for strings.
+
 ### Fri 05 Mar 2021
+
+- We began studying deterministic finite-state acceptors for strings.
+- Here is the [handout we are using](handouts/dfa-strings-trees.pdf)
 
 ### Wed 03 Mar 2021
 
