@@ -17,6 +17,14 @@
 
 ## Class Log
 
+### Mon 14 Mar 2021
+
+- We began going over tree DFA. 
+- HW3 on string DFAs is now in the repository. It is due next Monday (3/21).
+
+### Fri 12 Mar 2021
+
+- We went over the product construction for intersection and union of string DFAs.
 
 ### Wed 10 Mar 2021
 
