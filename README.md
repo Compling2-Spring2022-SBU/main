@@ -17,9 +17,14 @@
 
 ## Class Log
 
-### Mon 14 Mar 2021
+### Wed 17 Mar 2021
 
-- We began going over tree DFA. 
+- We  discussed top-down tree DFA. 
+- We finished a few minutes early for those who want to attend Owen Rambow's talk at the AI seminar.
+
+### Mon 15 Mar 2021
+
+- We  discussed bottom-up tree DFA. 
 - HW3 on string DFAs is now in the repository. It is due next Monday (3/21).
 
 ### Fri 12 Mar 2021
