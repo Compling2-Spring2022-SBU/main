@@ -17,9 +17,16 @@
 
 ## Class Log
 
+### Wed 19 Mar 2021
+
+- We reviwed top-down tree DFA. 
+- Dakotah shared his [proposal for visualizing bottom-up tree acceptors](readings/visualizing-tree-acceptors.pdf).
+- We decided to make class on Mar 26 optional for those who need a 3 day weekend. I will be here for anyone else who wants to talk shop, or review class material.
+- The deadline for the project proposal has been revised to April 16.
+
 ### Wed 17 Mar 2021
 
-- We  discussed top-down tree DFA. 
+- We discussed top-down tree DFA. 
 - We finished a few minutes early for those who want to attend Owen Rambow's talk at the AI seminar.
 
 ### Mon 15 Mar 2021
