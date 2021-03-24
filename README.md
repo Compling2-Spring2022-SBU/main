@@ -17,7 +17,15 @@
 
 ## Class Log
 
-### Wed 19 Mar 2021
+### Wed Mar 24 2021
+- Updated handouts on trees to deal with tree width
+- We discussed the connections to context-free languages.
+
+### Mon Mar 22 2021
+- We explained why deterministic TD tree acceptors can't recognize everything deterministuc BU tree acceptors can.
+- We discussed closure properties of tree acceptors, and got tangled up with the ranked alphabet and the width of a tree (and by extension a treeset, and a class of treesets.)
+
+### Fri 19 Mar 2021
 
 - We reviwed top-down tree DFA. 
 - Dakotah shared his [proposal for visualizing bottom-up tree acceptors](readings/visualizing-tree-acceptors.pdf). Here is [his question about it](https://math.stackexchange.com/q/4067831)  on the math stackexchange.
