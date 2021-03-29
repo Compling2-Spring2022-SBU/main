@@ -17,6 +17,12 @@
 
 ## Class Log
 
+### Mon Mar 29 2021
+- We begin studying [deterministic finite-state transducers](handouts/dft-strings.pdf).
+
+### Fri Mar 26 2021
+- In lieu of Spring Break, today's class was an optional "catch-up" class.
+
 ### Wed Mar 24 2021
 - Updated handouts on trees to deal with tree width
 - We discussed the connections to context-free languages.
