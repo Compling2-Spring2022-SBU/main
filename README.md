@@ -17,8 +17,20 @@
 
 ## Class Log
 
+### Wed Apr 7 2021
+- We begin studying [deterministic finite-state transducers over trees](handouts/dft-trees.pdf).
+
+### Mon Apr 5 2021
+- We wrapped up our study of deterministic finite-state transducers over strings.
+
+### Fri Apr 2 2021
+- We continued the study of deterministic finite-state transducers over strings.
+
+### Wed Mar 31 2021
+- We continued the study of deterministic finite-state transducers over strings.
+
 ### Mon Mar 29 2021
-- We begin studying [deterministic finite-state transducers](handouts/dft-strings.pdf).
+- We begin studying [deterministic finite-state transducers over strings](handouts/dft-strings.pdf).
 
 ### Fri Mar 26 2021
 - In lieu of Spring Break, today's class was an optional "catch-up" class.
