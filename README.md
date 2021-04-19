@@ -20,7 +20,7 @@
 
 ### Mon Apr 19 2021
 - We wrapped up our study of nondeterminism.
-- For more on whether the UR/SR mapping in phonology is deteerministic or not see [Heinz and Lai 2013](http://jeffreyheinz.net/papers/Heinz-Lai-2013-VHS.pdf), [Jardine 2016](https://www.cambridge.org/core/journals/phonology/article/computationally-tone-is-different/B01C656A2B96316F3ADCC836BD2A6244), and [McCollum et al 2020](https://www.cambridge.org/core/journals/phonology/article/unbounded-circumambient-patterns-in-segmental-phonology/AF0AD25DD9EC20420217ED5D2B2A324B).
+- For more on whether the UR/SR mapping in phonology is deterministic or not see [Heinz and Lai 2013](http://jeffreyheinz.net/papers/Heinz-Lai-2013-VHS.pdf), [Jardine 2016](https://www.cambridge.org/core/journals/phonology/article/computationally-tone-is-different/B01C656A2B96316F3ADCC836BD2A6244), and [McCollum et al 2020](https://www.cambridge.org/core/journals/phonology/article/unbounded-circumambient-patterns-in-segmental-phonology/AF0AD25DD9EC20420217ED5D2B2A324B).
 - HW 5 is due next week Apr 26.
 
 ### Fri Apr 16 2021
