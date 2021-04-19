@@ -17,6 +17,23 @@
 
 ## Class Log
 
+
+### Mon Apr 19 2021
+- We wrapped up our study of nondeterminism.
+- HW 5 is due next week Apr 26.
+
+### Fri Apr 16 2021
+- We continued studying nondeterminism.
+
+### Wed Apr 14 2021
+- We begin studying [nondeterminism](handouts/nondeterminism.pdf).
+
+### Mon Apr 12 2021
+- We wrapped up our study of deterministic finite-state transducers over trees.
+
+### Fri Apr 9 2021
+- We continued studying deterministic finite-state transducers over trees.
+
 ### Wed Apr 7 2021
 - We begin studying [deterministic finite-state transducers over trees](handouts/dft-trees.pdf).
 
