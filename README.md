@@ -17,6 +17,9 @@
 
 ## Class Log
 
+### Wed Apr 21 2021
+- We discussed kinds of regular expressions and subregular complexity.
+- Here are the [slides](handouts/subregularcomplexity-slides.pdf) and a [summary handout](handouts/subregularcomplexity-handout.pdf)
 
 ### Mon Apr 19 2021
 - We wrapped up our study of nondeterminism.
