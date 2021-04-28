@@ -17,6 +17,18 @@
 
 ## Class Log
 
+### Wed Apr 28 2021
+- Today we begin the unit on model theory and logic.
+- Here is [handout](handouts/logic-handout-1.pdf) defining the syntax and semantics of MSO and FO logical languages.
+- We are going to use slides from [class 2](handouts/lsa2019-class2.pdf), [class 3](lsa2019-class3.pdf), and [class 4](lsa2019-class4.pdf) from the course I gave at the LSA Summer Institute in 2019.
+
+### Mon Apr 26 2021
+- We finished the slides on subregular complexity.
+
+### Wed Apr 21 2021
+- I gave a practice talk ["Making Copies"](http://jeffreyheinz.net/talks/Heinz-2021-MC-slides.pdf) for my MIT linguistics colloquium talk later this afternoon.
+- You may also be interested in slides from the minicourse I gave there titled ["Learning Constraints over Representations of Your Own Choosing"](http://jeffreyheinz.net/talks/Heinz-2021-minicourse-LCORYOC-slides.pdf).
+
 ### Wed Apr 21 2021
 - We discussed kinds of regular expressions and subregular complexity.
 - Here are the [slides](handouts/subregularcomplexity-slides.pdf) and a [summary handout](handouts/subregularcomplexity-handout.pdf)
