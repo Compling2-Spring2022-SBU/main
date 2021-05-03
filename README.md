@@ -17,6 +17,16 @@
 
 ## Class Log
 
+### Mon May 03 2021
+- Today we discussed weighted logic which debunks the trope that logic only deals with truth and falsity.
+- Here is a [handout](handouts/logic-handout-2.pdf) defining the syntax and semantics of weighted MSO logic.
+- We also went through the slides if class 3. Note on slide 21, there was an error: it should be univeral quantification in the example, not existential quantification.
+- For more on weighted logic, this [chapter](readings/DrosteGastin2009-ch05.pdf) by Droste and Gastin is a good starting point. 
+- For more on semirings, see the book ```Jonathan Golan. 1999. Semirings and their Applications. Kluwer Academic Publishers,
+Dordrecht.```
+
+
+
 ### Wed Apr 28 2021
 - Today we begin the unit on model theory and logic.
 - Here is [handout](handouts/logic-handout-1.pdf) defining the syntax and semantics of MSO and FO logical languages.
