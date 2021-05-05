@@ -17,6 +17,11 @@
 
 ## Class Log
 
+### Wed May 05 2021
+
+- Today we began discussing how logic can be used to express transformations.
+- To learn more read these [draft chapters](readings/dcp1-3.pdf).
+
 ### Mon May 03 2021
 - Today we discussed weighted logic which debunks the trope that logic only deals with truth and falsity.
 - Here is a [handout](handouts/logic-handout-2.pdf) defining the syntax and semantics of weighted MSO logic.
