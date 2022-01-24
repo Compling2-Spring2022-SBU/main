@@ -20,9 +20,8 @@
 - List of [commonly used math symbols](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html)
 - Andrew Roberts' [Getting to Grips with LaTeX](http://www.andy-roberts.net/writing/latex)
 
-### Python
+### Haskell
 
-- A succinct yet extensive [tutorial for Python 3](http://www.python-course.eu/python3_course.php)
-- The official [Python 3 documentation](https://docs.python.org/3/)
+- [Haskell](https://www.haskell.org) 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) is an excellent introduction that covers the basics of Python and applies them to real-world tasks.
 - The [repository for LIN 120 *Language & Technology*](https://github.com/CompLab-StonyBrook/lin120_public) also contains Jupyter notebooks that cover the basics of Python, with an emphasis on programming techniques for computational linguistics.
