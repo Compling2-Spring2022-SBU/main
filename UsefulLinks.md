@@ -23,5 +23,3 @@
 ### Haskell
 
 - [Haskell](https://www.haskell.org) 
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) is an excellent introduction that covers the basics of Python and applies them to real-world tasks.
-- The [repository for LIN 120 *Language & Technology*](https://github.com/CompLab-StonyBrook/lin120_public) also contains Jupyter notebooks that cover the basics of Python, with an emphasis on programming techniques for computational linguistics.
