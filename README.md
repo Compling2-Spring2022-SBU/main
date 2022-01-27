@@ -19,8 +19,22 @@
 
 ## Class Log
 
+### Thu 27 Jan 2022
+
+- Today we fnished the discussion around different kinds of regular
+  expressions (RE, GRE, CUE, SFE).
+- For next Tuesday, please do the following
+  - Read Chapter 1 of the Graham Hutton Book on Haskell and do
+    exercises 1-5 in section 1.7 at the end of the chapter.
+  - Read sections 4 and 5 of the
+    [handout](readings/rewrite-grammars.pdf) on rewrite grammars.
+
 ### Tue 25 Jan 2022
 
 - Today we introduced the course and went over the syllabus.
-- Please make sure you have a github account set up and send me your username so I can add you to the "Compling2-Spring2022-SBU" github organization.
+- We also began this [handout](readings/rewrite-grammars.pdf) on
+  formal languages, formal grammars, and regular expressions.
+- Please make sure you have a github account set up and send me your
+  username so I can add you to the "Compling2-Spring2022-SBU" github
+  organization.
 
