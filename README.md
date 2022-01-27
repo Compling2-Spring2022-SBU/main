@@ -32,11 +32,20 @@
 ### Tue 25 Jan 2022
 
 - Today we introduced the course and went over the syllabus.
-- we went over the first two pages of [this handout on formal languages and grammars](readings/rewrite-grammars.pdf)
+- we went over the first two pages of [this handout on formal
+  languages and grammars](readings/rewrite-grammars.pdf)
 - For Thursday:
-  - Please make sure you have a github account set up and send me your username so I can add you to the "Compling2-Spring2022-SBU" github organization.
+  - Please make sure you have a github account set up and send me your
+    username so I can add you to the "Compling2-Spring2022-SBU" github
+    organization.
   - Complete exercise 1 on page 2 of the handout. 
-  - Install Haskell using GHCup. [Instructions are here.](https://www.haskell.org/ghcup/) If you need assistance, please let us know asap. We are happy to help. Windows users may want to install the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/) or set up a [Virtual Machine](https://www.virtualbox.org/) with a Linux distribution (such as Ubuntu) running on it. [Instructions for how to install Ubuntu on a virtual machine are here.](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
+  - Install Haskell using GHCup. [Instructions are
+    here.](https://www.haskell.org/ghcup/) If you need assistance,
+    please let us know asap. We are happy to help. Windows users may
+    want to install the [Windows Subsystem for
+    Linux](https://docs.microsoft.com/en-us/windows/wsl/) or set up a
+    [Virtual Machine](https://www.virtualbox.org/) with a Linux
+    distribution (such as Ubuntu) running on it. [Instructions for how
+    to install Ubuntu on a virtual machine are
+    here.](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
  
->>>>>>> 2892c74362edaa3a93fc66c905f7af039e3516e7
-
