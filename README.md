@@ -19,6 +19,17 @@
 
 ## Class Log
 
+### Tue 01 Feb 2022
+
+- Today we reviewed chapter 1 of Hutton.
+- We went over section 4 of [this handout on formal
+  languages and grammars](readings/rewrite-grammars.pdf)
+- For Thursday:
+  - For a fun puzzle, work on exercise 5 on page 6 of the handout. 
+  - Read Chapter 2 of Hutton and complete all the exercises at the end
+    of the chapter.
+- For next Tuesday set up a text editor for working on Haskell programs. Haskell's recommended IDEs are here: [https://wiki.haskell.org/IDEs](https://wiki.haskell.org/IDEs)
+
 ### Thu 27 Jan 2022
 
 - Today we finished the discussion around different kinds of regular
