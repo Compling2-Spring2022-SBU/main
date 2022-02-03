@@ -19,6 +19,17 @@
 
 ## Class Log
 
+### Thu 03 Feb 2022
+
+- Today we finished the handout on rewrite grammars. 
+- We reviewed chapter 2 of Hutton.
+- For Tuesday
+  - For fun, work on exercise 7 in the [the handout on formal
+  languages and grammars](readings/rewrite-grammars.pdf)
+  - Read Chapter 3 of Hutton and complete all the exercises at the end
+    of the chapter.
+  - Fork [HW01](https://github.com/Compling2-Spring2022-SBU/HW01), complete the exercise and submit a pull request to submit your solution.
+
 ### Tue 01 Feb 2022
 
 - Today we reviewed chapter 1 of Hutton.
