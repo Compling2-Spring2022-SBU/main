@@ -19,10 +19,19 @@
 
 ## Class Log
 
+### Tue 08 Feb 2022
+
+- We went over exercise 7 on rewrite grammars.
+- We reviewed chapter 3 of Hutton.
+- Dakotah presented on the piecewise-local expression builder (pleb) [slides](readings/pleb.pdf)
+- For Thursday
+  - Review class materials and begin reading section 4 of Hutton if so inclined.
+
 ### Thu 03 Feb 2022
 
 - Today we finished the handout on rewrite grammars. 
 - We reviewed chapter 2 of Hutton.
+- I reviewed a bit of what is known if we think of natural languages as formal grammars in slides 14-15 of [this talk](readings/umcp-cogsci-may2010.beamer.pdf).
 - For Tuesday
   - For fun, work on exercise 7 in the [the handout on formal
   languages and grammars](readings/rewrite-grammars.pdf)
