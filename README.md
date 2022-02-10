@@ -19,6 +19,16 @@
 
 ## Class Log
 
+### Thu 10 Feb 2022
+
+- Dakotah finished presenting his [pleb slides](readings/pleb.pdf).
+- We discussed local, piecewise, and tier-based local factors as the parts of the whole that are used to determine a sequence's well-formednes. These were motivated by natural language examples shown on slides 7 and 17-21 of [this talk](readings/oxford-typology-computation.beamer.pdf)
+- We finished reviewing chapter 3 of Hutton.
+- For next Tuesday:
+  - Read up to and including section 4.4. of Hutton. (So not section 4.5) 
+  - Do exercises 1-6 at the end of Hutton chapter 4. Fork [HW02](https://github.com/Compling2-Spring2022-SBU/HW02), complete the exercises in one of the `.hs` or `.lhs` files there, and submit a pull request to submit your answers.
+  - Please contact Dakotah or myself if you have any questions about this. We are here to help. 
+
 ### Tue 08 Feb 2022
 
 - We went over exercise 7 on rewrite grammars.
