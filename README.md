@@ -31,7 +31,7 @@
 
 - Today we finished the handout on rewrite grammars. 
 - We reviewed chapter 2 of Hutton.
-- I reviewed a bit of what is known if we think of natural languages as formal grammars in slides 14-15 of [this talk](readings/umcp-cogsci-may2010.beamer.pdf).
+- I reviewed a bit of what is known if we think of natural languages as formal languages in slides 14-15 of [this talk](readings/umcp-cogsci-may2010.beamer.pdf).
 - For Tuesday
   - For fun, work on exercise 7 in the [the handout on formal
   languages and grammars](readings/rewrite-grammars.pdf)
