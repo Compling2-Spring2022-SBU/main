@@ -9,6 +9,7 @@
 ### TA
 - [Dakotah Lambert](https://vvulpes0.github.io/) 
 - dakotah.lambert@stonybrook.edu
+- Office Hours: Fridays 1:00–4:00pm and by appointment
 
 ### Course
 - TTh 09:45-11:05
