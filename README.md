@@ -20,6 +20,13 @@
 
 ## Class Log
 
+### Tue 15 Feb 2022
+
+- We reviewed chapter 4 of Hutton.
+- We began our discussion of trees and strings [in these notes](main/chap01-02.pdf).
+- For Thursday:
+  - 
+
 ### Thu 10 Feb 2022
 
 - Dakotah finished presenting his [pleb slides](readings/pleb.pdf).
