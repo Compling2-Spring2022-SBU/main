@@ -20,12 +20,25 @@
 
 ## Class Log
 
+### Tue 22 Feb 2022
+
+- We reviewed chapters 6 and 8 of Hutton.
+- We looked at examples of how to define [sequences](code/strings.lhs)
+  and [trees](trees.lhs) in haskell and considered some functions over
+  them.
+
+### Thu 17 Feb 2022
+
+- We defined trees as a recursive data structure and looked at some functions over them. 
+- We finished reviewing chapter 5 and the beginning of chapter 6 of Hutton.
+- For next Tuesday:
+  - Finish reading chapter 6 of Hutton. 
+  - Fork [HW03](https://github.com/Compling2-Spring2022-SBU/HW03), and complete the exercises in the folders hutton and hawaiian.
+
 ### Tue 15 Feb 2022
 
 - We reviewed chapter 4 of Hutton.
-- We began our discussion of trees and strings [in these notes](main/chap01-02.pdf).
-- For Thursday:
-  - 
+- We began our discussion of trees and strings [in these notes](readings/chap01-02.pdf), and studied a recursive definition of strings.
 
 ### Thu 10 Feb 2022
 
