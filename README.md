@@ -26,6 +26,9 @@
 - We looked at examples of how to define [sequences](code/strings.lhs)
   and [trees](trees.lhs) in haskell and considered some functions over
   them.
+- For Thursday:
+  - Read chapter 8 through 8.5 of Hutton (not 8.6 and beyond). 
+  - Read chapter 7.1 and 7.2 of Hutton (not beyond for now). 
 
 ### Thu 17 Feb 2022
 
