@@ -24,7 +24,7 @@
 
 - We reviewed chapters 6 and 8 of Hutton.
 - We looked at examples of how to define [sequences](code/strings.lhs)
-  and [trees](trees.lhs) in haskell and considered some functions over
+  and [trees](code/trees.lhs) in haskell and considered some functions over
   them.
 - For Thursday:
   - Read chapter 8 through 8.5 of Hutton (not 8.6 and beyond). 
