@@ -27,6 +27,9 @@
   - Read sections 7.3 through 7.5 of Hutton (not 7.6).
   - Read [Rooij and Baggio 2021](readings/RooijBaggio2021.pdf) on
        the theoretical cyle.
+- Here is an [optional wiki
+  page](https://wiki.haskell.org/Foldr_Foldl_Foldl') comparing
+  `foldr` to `foldl` to `foldl'`.
 
 ### Thu 25 Feb 2022
 
