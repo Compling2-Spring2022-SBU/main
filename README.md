@@ -20,6 +20,14 @@
 
 ## Class Log
 
+### Tue 01 Mar 2022
+
+- We discussed the higher order functions map and fold (chapter 7 of Hutton).
+- For Thursday:
+  - Read sections 7.3 through 7.5 of Hutton (not 7.6).
+  - Read [Rooij and Baggio 2021](readings/RooijBaggio2021.pdf) on
+       the theoretical cyle.
+
 ### Thu 25 Feb 2022
 
 - We reviewed the HW and chapter 8 of Hutton.
@@ -143,3 +151,4 @@
 	distribution (such as Ubuntu) running on it. [Instructions for how
 	to install Ubuntu on a virtual machine are
 	here.](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
+
