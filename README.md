@@ -20,7 +20,7 @@
 
 ## Class Log
 
-### Thu 25 Feb 2022
+### Thu 24 Feb 2022
 
 - We reviewed the HW and chapter 8 of Hutton.
 - We continued to study the [sequences](code/strings.lhs)
