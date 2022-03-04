@@ -20,6 +20,29 @@
 
 ## Class Log
 
+
+### Thu 03 Mar 2022
+
+- We went over HW04 on recursion and Hawaiian.
+- We discussed functional composition in Haskell.
+- We began to discuss subregular complexity and strictly k-local
+  languages [slides](readings/subregularcomplexity.pdf)
+- For Tuesday:
+  - Fork [HW05](https://github.com/Compling2-Spring2022-SBU/HW05), and
+  complete the exercises in the folders hutton and hawaiian.
+
+
+### Tue 01 Mar 2022
+
+- We discussed the higher order functions map and fold (chapter 7 of Hutton).
+- For Thursday:
+  - Read sections 7.3 through 7.5 of Hutton (not 7.6).
+  - Read [Rooij and Baggio 2021](readings/RooijBaggio2021.pdf) on
+       the theoretical cyle.
+- Here is an [optional wiki
+  page](https://wiki.haskell.org/Foldr_Foldl_Foldl') comparing
+  `foldr` to `foldl` to `foldl'`.
+
 ### Thu 24 Feb 2022
 
 - We reviewed the HW and chapter 8 of Hutton.
@@ -143,3 +166,4 @@
 	distribution (such as Ubuntu) running on it. [Instructions for how
 	to install Ubuntu on a virtual machine are
 	here.](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
+
