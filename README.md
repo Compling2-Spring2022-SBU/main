@@ -25,7 +25,7 @@
 
 - We discussed foldr.
 - We discussed strictly k-local
-  languages and suffix substitution closure [slides](readings/subregularcomplexity.pdf)
+  languages and suffix substitution closure ([slides](readings/subregularcomplexity.pdf))
 - For Thursday:
   - Let Σ = {a,b,s,ʃ}. Let L be the language which contains all and
     only those strings which do not contain both s and ʃ.  Using
@@ -37,7 +37,7 @@
 - We went over HW04 on recursion and Hawaiian.
 - We discussed functional composition in Haskell.
 - We began to discuss subregular complexity and strictly k-local
-  languages [slides](readings/subregularcomplexity.pdf)
+  languages ([slides](readings/subregularcomplexity.pdf))
 - For Tuesday:
   - Fork [HW05](https://github.com/Compling2-Spring2022-SBU/HW05), and
   complete the exercises in the folders hutton and hawaiian.
