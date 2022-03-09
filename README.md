@@ -21,6 +21,17 @@
 ## Class Log
 
 
+### Tue 08 Mar 2022
+
+- We discussed foldr.
+- We discussed strictly k-local
+  languages and suffix substitution closure [slides](readings/subregularcomplexity.pdf)
+- For Thursday:
+  - Let Σ = {a,b,s,ʃ}. Let L be the language which contains all and
+    only those strings which do not contain both s and ʃ.  Using
+    suffix substiution closure, prove that L is not strictly k-local
+    for any k. Hint: start with k=2, then k=3 then go for it!
+
 ### Thu 03 Mar 2022
 
 - We went over HW04 on recursion and Hawaiian.
