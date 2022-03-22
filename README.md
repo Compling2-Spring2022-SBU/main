@@ -28,6 +28,7 @@
 - We dicussed locally testable, piecewise testable, and locally
   threshold testable classes
   ([slides](readings/subregularcomplexity.pdf)).
+- [Summary handout](readings/subreghandout.pdf)
 
 ### Thu 10 Mar 2022
 
