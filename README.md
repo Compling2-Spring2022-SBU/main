@@ -21,6 +21,15 @@
 ## Class Log
 
 
+### Thu 24 Mar 2022
+
+- We went over HW06.
+- We had a conversation about final projects.
+- We began discussion of [deterministic finite-state string acceptors](readings/dfsa.pdf).
+- For Thursday Mar 31:
+  - Fork [HW07](https://github.com/Compling2-Spring2022-SBU/HW07), and
+  complete the exercises in the folder dfsa.
+
 ### Tue 22 Mar 2022
 
 - We went over questions on HW06 due Thursday.
