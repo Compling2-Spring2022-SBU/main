@@ -20,13 +20,21 @@
 
 ## Class Log
 
+### Thu 31 Mar 2022
+
+- We reviewed HW07.
+- We reviewed some aspects of [plebby](https://hackage.haskell.org/package/language-toolkit-1.0.0.0)
+- We began discussion of [deterministic finite-state tree acceptors](readings/main-draft.pdf) (Chapter 3).
+- For Thursday Apr 07:
+  - Fork [HW08](https://github.com/Compling2-Spring2022-SBU/HW08), and
+  complete the exercises in the folder dfbta.
+
 
 ### Tue 29 Mar 2022
 
 - We went over exercises 1 and 2.
 - We discussed HW07.
 - We discussed [record syntax](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#record-syntax).
-- We began discussion of [deterministic finite-state tree acceptors](readings/main-draft.pdf) (Chapter 3).
 - For Thursday Mar 31:
   - Fork [HW07](https://github.com/Compling2-Spring2022-SBU/HW07).
 
