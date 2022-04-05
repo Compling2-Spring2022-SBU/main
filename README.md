@@ -21,12 +21,27 @@
 ## Class Log
 
 
+### Tue 05 Apr 2022
+
+- Regarding DBFTA, we went over the propositional logic example.
+- We also saw how the "syntax tree" for propositional logic can be
+  "spelled out" phonologically and evaluated semantically.
+- For Thursday Apr 07:
+  - Fork [HW08](https://github.com/Compling2-Spring2022-SBU/HW08).
+
+
+### Thu 31 Mar 2022
+
+- We reviewed HW07.
+- We began discussion of [deterministic finite-state tree acceptors](readings/main-draft.pdf) (Chapter 3).
+- For Thursday Apr 07:
+  - Fork [HW08](https://github.com/Compling2-Spring2022-SBU/HW08).
+
 ### Tue 29 Mar 2022
 
 - We went over exercises 1 and 2.
 - We discussed HW07.
 - We discussed [record syntax](http://learnyouahaskell.com/making-our-own-types-and-typeclasses#record-syntax).
-- We began discussion of [deterministic finite-state tree acceptors](readings/main-draft.pdf) (Chapter 3).
 - For Thursday Mar 31:
   - Fork [HW07](https://github.com/Compling2-Spring2022-SBU/HW07).
 
