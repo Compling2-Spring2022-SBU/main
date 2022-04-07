@@ -21,11 +21,23 @@
 ## Class Log
 
 
+### THU 07 Apr 2022
+
+- We reviewed HW08.
+- We began discussion of [deterministic finite-state string transducers](readings/main-draft.pdf) (Chapter 4).
+- For Thursday Apr 07:
+  - Fork [HW09](https://github.com/Compling2-Spring2022-SBU/HW08), and complete the exercises in the folder dfst.
+
 ### Tue 05 Apr 2022
 
-- Regarding DBFTA, we went over the propositional logic example.
+- Regarding DBFTA, we went over the propositional logic example. Note
+  the figure in the notes needs to be corrected. A working DBFTA for
+  that example only requires one state.
 - We also saw how the "syntax tree" for propositional logic can be
   "spelled out" phonologically and evaluated semantically.
+- Read [Stabler
+  2019](readings/Stabler-2019-Three-Mathematical-Foundations-for-Syntax.pdf)
+  on converging trends in syntax.
 - For Thursday Apr 07:
   - Fork [HW08](https://github.com/Compling2-Spring2022-SBU/HW08).
 
