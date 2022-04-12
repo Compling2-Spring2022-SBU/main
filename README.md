@@ -20,8 +20,14 @@
 
 ## Class Log
 
+### Tue 12 Apr 2022
 
-### THU 07 Apr 2022
+- We continued discussion of [deterministic finite-state string transducers](readings/main-draft.pdf) (Chapter 4).
+- We discussed HW09.
+- For Thursday Apr 07:
+  - Fork [HW09](https://github.com/Compling2-Spring2022-SBU/HW08), and complete the exercises in the folder dfst.
+
+### Thu 07 Apr 2022
 
 - We reviewed HW08.
 - We began discussion of [deterministic finite-state string transducers](readings/main-draft.pdf) (Chapter 4).
