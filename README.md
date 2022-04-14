@@ -20,19 +20,30 @@
 
 ## Class Log
 
+### Thu 14 Apr 2022
+
+- We discussed code for producing [prefix trees](code/Dfsa.lhs) and discussed how Haskell imports libraries.
+- We also discussed code for writing programs compilable with `ghc` on the command line
+  - Example [sp2](code/sp2.lhs)
+  - Example [slk](code/slk.lhs)
+- We introduced monoids and [generalized deterministic finite-state
+  string transducers](readings/main-draft.pdf) (Chapter 4).
+- For Tuesday Apr 26:
+  - Fork [HW10](https://github.com/Compling2-Spring2022-SBU/HW10), and complete the exercises in the folder gdfst.
+
 ### Tue 12 Apr 2022
 
 - We continued discussion of [deterministic finite-state string transducers](readings/main-draft.pdf) (Chapter 4).
 - We discussed HW09.
 - For Thursday Apr 07:
-  - Fork [HW09](https://github.com/Compling2-Spring2022-SBU/HW08), and complete the exercises in the folder dfst.
+  - Fork [HW09](https://github.com/Compling2-Spring2022-SBU/HW09), and complete the exercises in the folder dfst.
 
 ### Thu 07 Apr 2022
 
 - We reviewed HW08.
 - We began discussion of [deterministic finite-state string transducers](readings/main-draft.pdf) (Chapter 4).
 - For Thursday Apr 07:
-  - Fork [HW09](https://github.com/Compling2-Spring2022-SBU/HW08), and complete the exercises in the folder dfst.
+  - Fork [HW09](https://github.com/Compling2-Spring2022-SBU/HW09), and complete the exercises in the folder dfst.
 
 ### Tue 05 Apr 2022
 
